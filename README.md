@@ -11,4 +11,4 @@ A simple frontend-only weather app using OpenWeatherMap API and vanilla JavaScri
 - Open `index.html` in your browser
 
 ## Screenshot
-(Add a screenshot here)
+![Weather App](weather_app_screenshot.png)
